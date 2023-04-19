@@ -1,0 +1,8 @@
+[02-Mar-2023 06:22:33 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/forhad13/test.trustycoder.com/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/forhad13/test.trustycoder.com/wp-includes/widgets/class-wp-widget-block.php on line 17
+[05-Mar-2023 20:12:51 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/forhad13/test.trustycoder.com/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/forhad13/test.trustycoder.com/wp-includes/widgets/class-wp-widget-block.php on line 17
